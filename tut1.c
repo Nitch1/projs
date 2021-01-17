@@ -2,6 +2,8 @@
 #include<math.h>
 //#define PI 3.14
 
+void inputCopied(char[100] , char*);
+
 int main(){
     //float  radius = 4;
     //printf("area = %.2f(%.1f)^2 => %.2f",PI,radius,pow(radius,2)*PI);
